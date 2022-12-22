@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: ValberJunior/LoginNextJS
     backstage.io/techdocs-ref: dir:.
+    argocd/app-name: LoginNextJS
 spec:
   type: website
   lifecycle: experimental
