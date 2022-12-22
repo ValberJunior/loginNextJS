@@ -1,24 +1,23 @@
 # LoginNextJS
 
-An example screen created with NextJS and Styled-components.
+## Description
 
-## Getting started
+An example screen created with NextJS and Styled-Components
+<br>
+> This project was generated using a Platform Devportal template. <br>
+Our team can develop templates like these according to customer demand. <br>
+It usually has a standardized structure and its respective dependencies. <br>
+The generated project is configured with artifacts that make it ready to be listed within the catalog of our Devportal.
+<br>
 
-Start writing your documentation by adding more markdown (.md) files to this folder (/docs) or replace the content in this file.
+![screencapture-localhost-3001-2022-12-21-14_49_02](https://user-images.githubusercontent.com/84424883/208971265-697e89dc-1732-42d3-952e-40586553fd26.png)
 
-## Table of Contents
 
-The Table of Contents on the right is generated automatically based on the hierarchy
-of headings. Only use one H1 (`#` in Markdown) per file.
+## Develop
 
-## Site navigation
-
-For new pages to appear in the left hand navigation you need edit the `mkdocs.yml`
-file in root of your repo. The navigation can also link out to other sites.
-
-Alternatively, if there is no `nav` section in `mkdocs.yml`, a navigation section
-will be created for you. However, you will not be able to use alternate titles for
-pages, or include links to other sites.
-
-Note that MkDocs uses `mkdocs.yml`, not `mkdocs.yaml`, although both appear to work.
-See also <https://www.mkdocs.org/user-guide/configuration/>.
+```bash
+# install dependencies
+$ yarn
+# start development server
+$ yarn dev
+```

@@ -19,6 +19,7 @@ export const theme = {
     titleM: '2rem',
     subtitle: '1.5rem',
     text: '1rem',
-    textS: '.5rem'
+    textS: '.8rem',
+    button: '1.2rem'
   }
 }

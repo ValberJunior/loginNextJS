@@ -8,6 +8,7 @@ const GlobalStyle = createGlobalStyle`
 body{
   overflow-x: hidden;
   font-size: 16px;
+  font-family: Roboto, sans-serif;
 }
 `;
 
