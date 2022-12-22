@@ -1,0 +1,8 @@
+site_name: "LoginNextJS"
+site_description: "An example screen created with NextJS and Styled Components"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

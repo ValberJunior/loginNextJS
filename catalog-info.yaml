@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "LoginNextJS"
+  description: "An example screen created with NextJS and Sass"
+  annotations:
+    github.com/project-slug: ValberJunior/LoginNextJS
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "vjunior"
