@@ -2,7 +2,7 @@
 
 ## Description
 
-An example screen created with NextJS and Sass
+An example screen created with NextJS and Styled Components
 
 - This project was generated using a Platform Devportal template. <br>
 Our team can develop templates like these according to customer demand. <br>
