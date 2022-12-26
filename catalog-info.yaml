@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "LoginNextJS"
-  description: "An example screen created with NextJS and Sass"
+  description: "An example screen created with NextJS and Styled Components"
   annotations:
     github.com/project-slug: ValberJunior/LoginNextJS
     backstage.io/techdocs-ref: dir:.
