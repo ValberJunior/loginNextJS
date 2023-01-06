@@ -13,9 +13,6 @@ It usually has a standardized structure and its respective dependencies.
 The generated project is configured with artifacts that make it ready to be listed within the catalog of our Devportal.
 
 
-<img src="./docs/img/print.webp" alt="image"/>
-
-
 ## Develop
 
 ~~~bash
