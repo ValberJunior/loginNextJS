@@ -11,7 +11,7 @@ It usually has a standardized structure and its respective dependencies. <br>
 The generated project is configured with artifacts that make it ready to be listed within the catalog of our Devportal.
 
 
-<img src="https://images2.imgbox.com/3a/dd/QBDHoUzs_o.png?download=true" alt="image"/>
+<img src="https://imgbox.com/8KNkKxcB" alt="image"/>
 
 
 ## Develop
