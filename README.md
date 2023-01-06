@@ -4,7 +4,6 @@
 
 An example screen created with NextJS and Styled Components
 
--- Pull Request Plugin Test
 
 - This project was generated using a Platform Devportal template. <br>
 Our team can develop templates like these according to customer demand. <br>
