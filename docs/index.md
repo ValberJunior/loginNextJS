@@ -12,7 +12,7 @@ The generated project is configured with artifacts that make it ready to be list
 
 
 
-<img src="assets/print.webp" alt="image"/>
+<img src="./img/image1.png" alt="image"/>
 
 
 ## Develop
