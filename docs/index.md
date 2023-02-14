@@ -10,6 +10,8 @@ Our team can develop templates like these according to customer demand. <br>
 It usually has a standardized structure and its respective dependencies. <br>
 The generated project is configured with artifacts that make it ready to be listed within the catalog of our Devportal.
 
+Obs: test
+
 
 
 <img src="./img/print.webp" alt="image"/>
