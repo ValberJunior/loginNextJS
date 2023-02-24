@@ -8,7 +8,6 @@ const Homescreen = () => {
     <Wrapper>
       <LoginComponent>
         <Logo src={LogoImage} alt='logo'/>
-
           <Field>
             <Label htmlFor='username'>User</Label>
             <Input id='username'/>
