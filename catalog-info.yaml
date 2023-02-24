@@ -5,7 +5,7 @@ metadata:
   description: "An example screen created with NextJS and Styled Components"
   annotations:
     github.com/project-slug: ValberJunior/LoginNextJS
-    github.com/team-slug: veecode-platform/maintainers
+    github.com/team-slug: veecode-platform/developers
     backstage.io/techdocs-ref: dir:.
     argocd/app-name: LoginNextJS
 spec:
