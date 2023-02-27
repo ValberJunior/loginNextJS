@@ -2,7 +2,7 @@
 
 ## Description
 
-An example screen created with NextJS and Styled Components
+An example screen created with NextJS and Styled Components - Teste
 
 
 - This project was generated using a Platform Devportal template.
