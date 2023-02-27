@@ -9,6 +9,8 @@ An example screen created with NextJS and Styled Components
 
 Our team can develop templates like these according to customer demand.
 
+teste 2
+
 It usually has a standardized structure and its respective dependencies.
 The generated project is configured with artifacts that make it ready to be listed within the catalog of our Devportal.
 
