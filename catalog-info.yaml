@@ -19,4 +19,4 @@ metadata:
 spec:
   type: website
   lifecycle: experimental
-  owner: "vjunior"
+  owner: "group:default/admin"
