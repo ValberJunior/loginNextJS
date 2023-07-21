@@ -1,0 +1,11 @@
+name: Build Test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  job1:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Build Image
+        run: echo "Build Image"
