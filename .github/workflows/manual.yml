@@ -1,0 +1,11 @@
+name: Manual Dispatch
+
+on:
+  workflow_dispatch:
+
+jobs:
+  job1:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ação de exemplo
+        run: echo "Este é um exemplo de ação manual."
