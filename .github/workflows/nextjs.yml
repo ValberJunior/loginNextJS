@@ -21,6 +21,8 @@ on:
       use-emoji:
         type: boolean
         description: Include 🎉🤣 emojis
+        default: true
+        required: false
       number:
         type: number
         description: The number
