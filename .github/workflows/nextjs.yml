@@ -32,7 +32,7 @@ on:
       text:
         type: string
         description: String for test
-        required: false
+        required: true
         default: 'login teste'
         
 
