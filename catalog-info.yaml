@@ -5,7 +5,7 @@ metadata:
   description: "An example screen created with NextJS and Styled Components"
   links:
     - title: Website
-      url: http://backstage.io
+      url: https://www.globo.com/
     - title: Documentation
       url: https://backstage.io/docs
     - title: Storybook
@@ -17,8 +17,10 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     argocd/app-name: LoginNextJS
     github.com/workflows: nextjs.yml,nextjs.yml
+    website/url: https://www.globo.com/
    
 spec:
   type: website
   lifecycle: experimental
   owner: "vjunior"
+  url: https://www.globo.com/
