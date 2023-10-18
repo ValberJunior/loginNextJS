@@ -22,5 +22,5 @@ metadata:
 spec:
   type: website
   lifecycle: experimental
-  owner: "vjunior"
+  owner: "admin"
   url: https://www.globo.com/
