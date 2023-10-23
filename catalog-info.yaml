@@ -21,6 +21,6 @@ metadata:
    
 spec:
   type: website
-  lifecycle: experimental
+  lifecycle: prod
   owner: "admin"
   url: https://www.globo.com/
