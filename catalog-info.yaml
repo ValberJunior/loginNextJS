@@ -23,4 +23,4 @@ spec:
   lifecycle: prod
   owner: "admin"
   url: https://www.globo.com/
-  dependsOn: ['environment:Platform_Enviroment']
+  subcomponentOf: ['environment:Platform_Enviroment']
