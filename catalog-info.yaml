@@ -23,5 +23,5 @@ spec:
   lifecycle: prod
   owner: "admin"
   url: https://www.globo.com/
-  subcomponentOf: 'environment:default/Enviroment_Ecs'
-  dependsOn: ["cluster:default/ClusterA"]
+  subcomponentOf: 'cluster:default/devportal-kubernetes'
+  dependsOn: ["environment:default/Enviroment_Ecs"]
