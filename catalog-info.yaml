@@ -21,7 +21,7 @@ metadata:
 spec:
   type: website
   lifecycle: prod
-  owner: "admin"
+  owner: "devops"
   url: https://www.globo.com/
 #  subcomponentOf: 'cluster:default/devportal-kubernetes'
 #  dependsOn: ["environment:default/Enviroment_Ecs"]
