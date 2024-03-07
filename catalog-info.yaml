@@ -17,7 +17,9 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     github.com/workflows: nextjs.yml,nextjs.yml
     website/url: https://www.globo.com/
-    kong-manager/service-name: 7c62281d-2ca4-428d-884f-a9d95b98438d
+    #kong-manager/service-name: 7c62281d-2ca4-428d-884f-a9d95b98438d
+    #kong-manager/instance: /kong-manager/api
+    kong-manager/service-name: vkpr.app-exemple-platform-k8s.app-exemple-platform-k8s-service-0.8081
     kong-manager/instance: /kong-manager/api
    
 spec:
