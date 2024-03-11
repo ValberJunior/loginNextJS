@@ -17,9 +17,8 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     github.com/workflows: nextjs.yml,nextjs.yml
     website/url: https://www.globo.com/
-    #kong-manager/service-name: 7c62281d-2ca4-428d-884f-a9d95b98438d
-    #kong-manager/instance: /kong-manager/api
-    kong-manager/service-name: default.viacep-1.viacep-service-1.80
+    # kong-manager/service-name: default.viacep-1.viacep-service-1.80
+    kong-manager/service-name: 1067953a-e584-4f6b-a244-a855c5f65a75
     kong-manager/instance: /kong-manager/api
    
 spec:
