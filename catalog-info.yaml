@@ -26,5 +26,9 @@ spec:
   lifecycle: prod
   owner: "devops"
   url: https://www.globo.com/
+#  definition:
+#    $text: .
+  providesApis:
+    - spec-1303
 #  subcomponentOf: 'cluster:default/devportal-kubernetes'
 #  dependsOn: ["environment:default/Enviroment_Ecs"]
