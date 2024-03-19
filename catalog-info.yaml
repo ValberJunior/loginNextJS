@@ -29,6 +29,6 @@ spec:
 #  definition:
 #   $text: 'api:default/spec-1303'
   providesApis:
-    - spec-1303
+    - api-demo
 #  subcomponentOf: 'cluster:default/devportal-kubernetes'
 #  dependsOn: ["environment:default/Enviroment_Ecs"]
