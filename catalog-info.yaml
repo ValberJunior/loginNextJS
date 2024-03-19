@@ -10,8 +10,8 @@ metadata:
       url: https://backstage.io/docs
     - title: Storybook
       url: https://backstage.io/storybook
-    - title: Discord Chat
-      url: https://discord.com/invite/EBHEGzX
+    - title: Spec
+      url: /catalog/default/api/spec-1303
   annotations:
     github.com/project-slug: ValberJunior/LoginNextJS
     backstage.io/techdocs-ref: dir:.
