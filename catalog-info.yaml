@@ -11,7 +11,7 @@ metadata:
     - title: Storybook
       url: https://backstage.io/storybook
     - title: Spec
-      url: /catalog/default/api/spec-1303
+      url: '/catalog/default/api/spec-1303'
   annotations:
     github.com/project-slug: ValberJunior/LoginNextJS
     backstage.io/techdocs-ref: dir:.
