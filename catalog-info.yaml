@@ -10,8 +10,8 @@ metadata:
       url: https://backstage.io/docs
     - title: Storybook
       url: https://backstage.io/storybook
-    - title: Spec
-      url: '/catalog/default/api/spec-1303'
+#    - title: Spec
+#      url: 'api:default/spec-1303'
   annotations:
     github.com/project-slug: ValberJunior/LoginNextJS
     backstage.io/techdocs-ref: dir:.
@@ -27,7 +27,7 @@ spec:
   owner: "devops"
   url: https://www.globo.com/
 #  definition:
-#    $text: .
+#   $text: 'api:default/spec-1303'
   providesApis:
     - spec-1303
 #  subcomponentOf: 'cluster:default/devportal-kubernetes'
