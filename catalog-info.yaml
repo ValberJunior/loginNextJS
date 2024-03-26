@@ -15,7 +15,7 @@ metadata:
   annotations:
     github.com/project-slug: ValberJunior/LoginNextJS
     backstage.io/techdocs-ref: dir:.
-    github.com/workflows: start.yml,stop.yml
+    github.com/workflows: start.yml,stop.yml,teste.yml
     website/url: https://www.globo.com/
     # kong-manager/service-name: default.viacep-1.viacep-service-1.80
     kong-manager/service-name: 1067953a-e584-4f6b-a244-a855c5f65a75
