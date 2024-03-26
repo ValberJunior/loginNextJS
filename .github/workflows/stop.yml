@@ -1,0 +1,22 @@
+name: Take Site Down
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Detect package manager
+        run: |
+          echo "Detect package manager"
+      - name: Write Message
+        run: |
+          echo "Take Site down..."
+      - name: Destroy
+        run: |
+          echo "Delete Site..."
+      - name: Finish
+        run: |
+          echo "The end *-*"
+
