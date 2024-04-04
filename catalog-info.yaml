@@ -31,4 +31,4 @@ spec:
   providesApis:
     - api-demo
   #subcomponentOf: 'environment:default/ec2_environment'
-  dependsOn: 'environment:default/ec2_environmen'
+  dependsOn: ['environment:default/ec2_environmen']
