@@ -30,5 +30,4 @@ spec:
 #   $text: 'api:default/spec-1303'
   providesApis:
     - api-demo
-  #subcomponentOf: 'environment:default/ec2_environment'
-  dependsOn: ['environment:default/ec2_environmen']
+  subcomponentOf: 'environment:default/ec2_environment'
