@@ -3,6 +3,10 @@ kind: Component
 metadata:
   name: "LoginNextJS"
   description: "An example screen created with NextJS and Styled Components"
+  environment:
+    cluster_instructions: |
+      mkdir test
+      aws eks get kubeconfig
   links:
     - title: Website
       url: https://www.globo.com/
