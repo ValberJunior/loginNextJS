@@ -20,6 +20,10 @@ metadata:
     # kong-manager/service-name: default.viacep-1.viacep-service-1.80
     kong-manager/service-name: 1067953a-e584-4f6b-a244-a855c5f65a75
     kong-manager/instance: /kong-manager/api
+    cluster/instructions: |
+    teste
+    hellow world
+    last line.
    
 spec:
   type: website
