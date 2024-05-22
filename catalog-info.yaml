@@ -21,7 +21,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     github.com/workflows: start.yml,stop.yml,update.yml,remove.yml,teste1.yaml,teste2.yaml,teste3.yaml,teste4.yaml,teste5.yaml
     website/url: https://www.globo.com/
-    kong-manager/service-name: vkpr.devportal-petclinic.80
+    kong-manager/service-name: vkpr.devportal-petclinic
     kong-manager/instance: /kong-manager/api
     cluster/instructions: |
         mkdir test
