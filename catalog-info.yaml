@@ -19,7 +19,7 @@ metadata:
   annotations:
     github.com/project-slug: ValberJunior/LoginNextJS
     backstage.io/techdocs-ref: dir:.
-    github.com/workflows: start.yml,stop.yml,update.yml,remove.yml,teste1.yml,teste2.yml,teste3.yml,teste4.yml,teste5.yml
+    github.com/workflows: start.yml,stop.yml,update.yml,remove.yml
     website/url: https://www.globo.com/
     kong-manager/service-name: vkpr.devportal-petclinic.80
     kong-manager/instance: /kong-manager/api
