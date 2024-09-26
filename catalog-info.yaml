@@ -19,20 +19,20 @@ metadata:
   annotations:
     github.com/project-slug: ValberJunior/LoginNextJS
     backstage.io/techdocs-ref: dir:.
-    github.com/workflows: start.yml,stop.yml
-    # github.com/workflows: |
-    #    [
-    #     {
-    #       "workflow": "start.yml",
-    #       "label": "Start Job",
-    #       "tooltip": "Start the Job xpto"
-    #     },
-    #     {
-    #       "workflow": "stop.yml",
-    #       "label": "Stop Job",
-    #       "tooltip": "Stop the Job xpto"
-    #     }
-    #    ]
+    #github.com/workflows: start.yml,stop.yml
+    github.com/workflows: |
+       [
+        {
+          "workflow": "start.yml",
+          "label": "Start Job",
+          "tooltip": "Start the Job xpto"
+        },
+        {
+          "workflow": "stop.yml",
+          "label": "Stop Job",
+          "tooltip": "Stop the Job xpto"
+        }
+       ]
     website/url: https://www.globo.com/
     kong-manager/service-name: veecode-apr.app-exemple-platform-obs-service-0.8080
     kong-manager/instance: kongxpto
