@@ -24,12 +24,12 @@ metadata:
        [
         {
           workflow: start.yml,
-          label: Start Job
+          label: Start Job,
           tooltip: Start the Job xpto
         },
         {
           workflow: stop.yml,
-          label: Stop Job
+          label: Stop Job,
           tooltip: Stop the Job xpto
         }
        ]
