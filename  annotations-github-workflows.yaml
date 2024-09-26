@@ -1,0 +1,7 @@
+github-workflows:
+  - workflow: start.yml
+    label: "Deploy Site"
+    tooltip: "Deploy a new Site"
+  - workflow: stop.yml
+    label: "Stop Site"
+    tooltip: "Stop job the site"
