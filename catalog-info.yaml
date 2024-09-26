@@ -23,14 +23,14 @@ metadata:
     github.com/workflows: |
        [
         {
-          workflow: "start.yml",
-          label: "Start Job",
-          tooltip: "Start the Job xpto"
+          "workflow": "start.yml",
+          "label": "Start Job",
+          "tooltip": "Start the Job xpto"
         },
         {
-          workflow: "stop.yml",
-          label: "Stop Job",
-          tooltip: "Stop the Job xpto"
+          "workflow": "stop.yml",
+          "label": "Stop Job",
+          "tooltip": "Stop the Job xpto"
         }
        ]
     website/url: https://www.globo.com/
