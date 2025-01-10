@@ -27,7 +27,13 @@
     "sass": "^1.55.0",
     "styled-components": "^5.3.6",
     "styled-reset": "^4.4.4",
-    "typescript": "4.9.4"
+    "typescript": "4.9.4",
+    "winston": "^3.3.3",
+    "express": "^4.17.1",
+    "prom-client": "^14.0.0",
+    "@opentelemetry/node": "^0.17.0",
+    "@opentelemetry/tracing": "^0.17.0",
+    "opentelemetry-exporter-jaeger": "^0.17.0"
   },
   "devDependencies": {
     "@spotify/tsconfig": "^14.1.3",
