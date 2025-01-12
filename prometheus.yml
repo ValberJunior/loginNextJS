@@ -1,0 +1,5 @@
+# prometheus.yml
+scrape_configs:
+  - job_name: 'nextjs_app'
+    static_configs:
+      - targets: ['localhost:3000']
