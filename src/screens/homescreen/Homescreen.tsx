@@ -1,28 +1,23 @@
-import React from 'react'
-import {  Button, DetailsFooter, Field, Input, Label, LinkElement, LoginComponent, Logo, Text, Wrapper } from './style'
+import React from 'react';
+import { Button, DetailsFooter, LoginComponent, Logo, Text, Wrapper } from './style';
+import FormField from '../../components/FormField';
 
-const  LogoImage = 'assets/home/logo.png';
+const LogoImage = 'assets/home/logo.png';
 
 const Homescreen = () => {
   return (
     <Wrapper>
       <LoginComponent>
-        <Logo src={LogoImage} alt='logo'/>
-          <Field>
-            <Label htmlFor='username'>User</Label>
-            <Input id='username'/>
-          </Field>
-          <Field>
-            <Label htmlFor='password'>Password</Label>
-            <Input id='password'/>
-          </Field>
-            <Button>Login</Button>
+        <Logo src={LogoImage} alt='logo' />
+        <FormField id='username' label='User' />
+        <FormField id='password' label='Password' type='password' />
+        <Button>Login</Button>
         <DetailsFooter>
-          <Text>Ainda não tem conta? <LinkElement href="/create">Crie uma conta</LinkElement></Text>
+          <Text>Ainda não tem conta? <a href="/create">Crie uma conta</a></Text>
         </DetailsFooter>
       </LoginComponent>
     </Wrapper>
-  )
-}
+  );
+};
 
-export default Homescreen
+export default Homescreen;
