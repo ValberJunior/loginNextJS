@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: login-nextjs
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: login-nextjs
+  template:
+    metadata:
+      labels:
+        app: login-nextjs
+    spec:
+      containers:
+      - name: login-nextjs
+        image: login-nextjs:latest
+        ports:
+        - containerPort: 3000
