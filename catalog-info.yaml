@@ -36,7 +36,7 @@ metadata:
     #  }
     website/url: https://www.globo.com/
     kong-manager/service-name: veecode-apr.app-exemple-platform-obs-service-0.8080
-    kong-manager/instance: kongxpto
+    kong-manager/instance: apr
     cluster/instructions: |
         mkdir test
         aws eks get kubeconfig
