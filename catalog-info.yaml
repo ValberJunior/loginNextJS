@@ -20,7 +20,7 @@ metadata:
     github.com/project-slug: ValberJunior/LoginNextJS
     backstage.io/techdocs-ref: dir:.
     vault.io/secrets-path: LoginNextJs
-    vault.io/secrets-engine: cubbyhole
+    vault.io/secrets-engine: secret
 
     #github.com/workflows: start.yml,stop.yml
     github.com/workflows: |
