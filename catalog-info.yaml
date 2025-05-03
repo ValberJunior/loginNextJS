@@ -17,9 +17,9 @@ metadata:
 #    - title: Spec
 #      url: 'api:default/spec-1303'
   annotations:
-    github.com/project-slug: ValberJunior/LoginNextJs
+    github.com/project-slug: ValberJunior/LoginNextJS
     backstage.io/techdocs-ref: dir:.
-    vault.io/secrets-path: LoginNextJS
+    vault.io/secrets-path: LoginNextJs
     vault.io/secrets-engine: secret
 
     #github.com/workflows: start.yml,stop.yml
