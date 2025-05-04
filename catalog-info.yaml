@@ -47,7 +47,7 @@ metadata:
 spec:
   type: website
   lifecycle: prod
-  owner: "devops"
+  owner: "admin"
   url: https://www.globo.com/
 #  definition:
 #   $text: 'api:default/spec-1303'
