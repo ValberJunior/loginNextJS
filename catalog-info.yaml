@@ -3,10 +3,6 @@ kind: Component
 metadata:
   name: "LoginNextJS"
   description: "An example screen created with NextJS and Styled Components"
-  environment:
-    cluster_instructions: |
-      mkdir test
-      aws eks get kubeconfig
   links:
     - title: Website
       url: https://www.globo.com/
@@ -19,30 +15,22 @@ metadata:
   annotations:
     github.com/project-slug: ValberJunior/LoginNextJS
     backstage.io/techdocs-ref: dir:.
-    vault.io/secrets-path: LoginNextJS
-    vault.io/secrets-engine: secret
 
     #github.com/workflows: start.yml,stop.yml
-    github.com/workflows: |
-       [
-        {
-          "workflow": "deploy.yml",
-          "label": "Deploy Job",
-          "tooltip": "Start the Job Deploy test"
-        }
-       ]
+    #github.com/workflows: |
+    #   [
+    #    {
+    #      "workflow": "deploy.yml",
+    #      "label": "Deploy Job",
+    #      "tooltip": "Start the Job Deploy test"
+    #    }
+    #   ]
     #   ,
     #   {
     #     "workflow": "destroy.yml",
     #     "label": "Destroy Job",
     #     "tooltip": "Destroy the Job test"
     #  }
-    website/url: https://www.globo.com/
-    kong-manager/service-name: veecode-apr.app-exemple-platform-obs-service-0.8080
-    kong-manager/instance: api
-    cluster/instructions: |
-        mkdir test
-        aws eks get kubeconfig
    
 spec:
   type: website
